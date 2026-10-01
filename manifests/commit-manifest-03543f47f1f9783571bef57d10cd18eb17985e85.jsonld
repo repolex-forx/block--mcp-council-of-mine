@@ -48,10 +48,24 @@
       "repolex:graphType": "ast",
       "repolex:graphFilePath": "aggregate/ast/03543f47f1f9783571bef57d10cd18eb17985e85/chunk-001.nq.gz",
       "repolex:graphFileSize": 915070
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "lsp",
+      "repolex:graphFilePath": "aggregate/lsp/03543f47f1f9783571bef57d10cd18eb17985e85.nq.gz",
+      "repolex:graphFileSize": 65186
     }
   ],
-  "repolex:parseStatus": "ast_complete",
+  "repolex:parseStatus": "enrich_complete",
   "repolex:parsedAt": "2026-10-01T06:18:26.728659+00:00",
   "repolex:parserVersion": "0.1.10",
-  "git:tagName": "main"
+  "git:tagName": "main",
+  "repolex:dependencyRepo": [
+    {
+      "@id": "https://repolex.ai/r/PrefectHQ/fastmcp",
+      "repolex:packageName": "fastmcp",
+      "git:hexsha": "eb7e9a2d4c431a9b31e275266cf5561c96b5fd86",
+      "git:tagName": "v2.13.0.2"
+    }
+  ]
 }

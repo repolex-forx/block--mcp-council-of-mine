@@ -48,6 +48,20 @@
       ],
       "ast": [
         "aggregate/ast/03543f47f1f9783571bef57d10cd18eb17985e85/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/03543f47f1f9783571bef57d10cd18eb17985e85.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "fastmcp",
+          "ecosystem": "PYPI",
+          "version": "2.13.0.2",
+          "githubOrg": "PrefectHQ",
+          "githubRepo": "fastmcp",
+          "githubCommit": "eb7e9a2d4c431a9b31e275266cf5561c96b5fd86",
+          "githubTag": "v2.13.0.2",
+          "githubUrl": "https://github.com/PrefectHQ/fastmcp",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],
