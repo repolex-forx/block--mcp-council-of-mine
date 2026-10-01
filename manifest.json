@@ -62,7 +62,9 @@
           "githubUrl": "https://github.com/PrefectHQ/fastmcp",
           "source": "build_file:pyproject.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/03543f47f1f9783571bef57d10cd18eb17985e85/chunk-001.nq.gz",
+      "dep": "dep/03543f47f1f9783571bef57d10cd18eb17985e85.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
