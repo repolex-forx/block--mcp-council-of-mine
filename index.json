@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "mcp-council-of-mine",
+  "versions": [
+    {
+      "commit": "03543f47f1f9783571bef57d10cd18eb17985e85",
+      "tag": "main",
+      "parsed_at": "2026-10-01T08:05:09.464429+00:00"
+    }
+  ]
+}
